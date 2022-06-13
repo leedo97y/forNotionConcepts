@@ -26,7 +26,7 @@ React 기본 학습과 그에 따른 프로젝트는
 
 [simpleDiary](https://github.com/leedo97y/simpleDiary)
 
-=> 나중에 이 두개의 레포지토리 readme를 공부했던 내용과 프로젝트 했던 내용으로 바꿀 이다.
+=> 나중에 이 두개의 레포지토리 readme를 공부했던 내용과 프로젝트 했던 내용으로 바꿀 예정이다.
 <br></br>
 
 > HTML 기본강의 
