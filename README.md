@@ -21,7 +21,12 @@ JS 기본 + 응용 복습 / React 기본을 학습
 프로젝트 ( 페이지 만들기 : 일기장, 메모장 )
 
 React 기본 학습과 그에 따른 프로젝트는 
-=> #reactexam1 , #simpleDiary
+
+[reactexam1](https://github.com/leedo97y/reactexam1)
+
+[simpleDiary](https://github.com/leedo97y/simpleDiary)
+
+=> 나중에 이 두개의 레포지토리 readme를 공부했던 내용과 프로젝트 했던 내용으로 바꿀 것이다.
 <br></br>
 
 > HTML 기본강의 
