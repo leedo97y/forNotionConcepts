@@ -19,6 +19,9 @@ JS 엔진의 작동 원리 Step by Step으로 파악
 JS 기본 + 응용 복습 / React 기본을 학습
 
 프로젝트 ( 페이지 만들기 : 일기장, 메모장 )
+
+React 기본 학습과 그에 따른 프로젝트는 
+=> #reactexam1 , #simpleDiary
 <br></br>
 
 > HTML 기본강의 
