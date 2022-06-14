@@ -203,3 +203,4 @@ console.log(nums); // [ 0, 1, 10, 2, 20, 3, 30 ]
 const a = ["Hi", "Doy", "it's", "been", "a", "longtime"];
 console.log(a.join(" ")); // Hi Doy it's been a longtime
 console.log(a.join(" aA ")); // Hi aA Doy aA it's aA been aA a aA longtime
+console.log(a.join(" B ")); 
