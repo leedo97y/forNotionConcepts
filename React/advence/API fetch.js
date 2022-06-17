@@ -7,6 +7,9 @@
  */
 
 
+const fetch = (url) => import('node-fetch').then(({default: fetch}) => fetch(url));
+
+
 // [ fetch ]
 let response = fetch('https://jsonplaceholder.typicode.com/posts').then((res) =>
   console.log(res)
@@ -15,6 +18,7 @@ let response = fetch('https://jsonplaceholder.typicode.com/posts').then((res) =>
 
 
 // ___________________________________________________________________________________________
+
 
 async function getData() {
   let rawResponse = await fetch('https://jsonplaceholder.typicode.com/posts');
